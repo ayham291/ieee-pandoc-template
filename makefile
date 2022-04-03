@@ -12,4 +12,4 @@ pdf:
 	pandoc -o paper.pdf $(FLAGS) $(FLAGS_PDF) $(FILES)
 
 clean:
-	rm build/*
+	rm paper.pdf
