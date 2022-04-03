@@ -1,0 +1,25 @@
+---
+title:
+  # logo: YOUR_LOGO.pdf
+  text: 'Paper Title'
+author:
+  - name: Ayham Alhalaibi
+    faculty: Regensburg University of Applied Sciences
+    email: ayham.dev@ayhamcloud.de
+keywords:
+  - one
+  - two
+  - three
+numbersections: yes
+graphics: true
+classoption: conference
+csl: ieee.csl
+bibliography: [bibliography.bib]
+lang: english
+babel-lang: english
+abstract: |
+  This is the abstract.
+
+  It consists of two paragraphs.
+
+...
